@@ -1,20 +1,9 @@
-# Day 1 Sample ScreenShots
+# Sample ScreenShots
 
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <style>
-        .container{
-            display: flex;
-            flex-wrap: wrap;
-        }
-    </style>
-  </head>
-  <body>
-    <div class="container">
-        <img src="./ScreenShots/Day1-1.png"></img>
-        <img src="./ScreenShots/Day1-2.png"></img>
-        <img src="./ScreenShots/Day1-3.png"></img>
-    </div>
-  </body>
-</html>
+<body align="center">
+  <div>
+      <img src="./ScreenShots/Day1-1.png" width="500" height=250" ></img>
+      <img src="./ScreenShots/Day1-2.png" width="500" height="250"></img>
+      <img src="./ScreenShots/Day1-3.png" width="500" height="250"></img>
+  </div>
+</body>
